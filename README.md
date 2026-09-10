@@ -7,10 +7,10 @@ This project bypasses volatile layout formulas and macro dependencies, leveragin
 ## 📊 Dashboard Interface Preview
 
 ### Top Overview & Sales KPIs
-![Top Dashboard View](./Screenshot%202026-09-10%20203745.png)
+![Top Dashboard View](Screenshot%202026-09-10%20203745.png)
 
 ### Fulfillment, Payments & Target Achievement Analytics
-![Bottom Dashboard View](./Screenshot%202026-09-10%20203819.png)
+![Bottom Dashboard View](Screenshot%202026-09-10%20203819.png)
 
 ## 🔑 Key Features
 * **Relational Schema Integration:** Established high-performance data model relationships linking independent source sheets (`Sales_Data`, `Products`, `Customers`, `Targets`, `Monthly_Targets`).
